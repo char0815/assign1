@@ -32,7 +32,7 @@ void draw(){
  rect(40,20,x,30);
  image(hpImg,30,20);
  image(treasureImg,300,z);
- y %=600;
+ y %=661;
  y +=5;
  if(w>=640)
  {
